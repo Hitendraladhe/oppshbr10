@@ -1,6 +1,8 @@
 import java.util.Random;
+class Company{
 
-class Employee{
+}
+class Employee extends Company{
     boolean isPresent;
     int wages = 0;
     int salary;
